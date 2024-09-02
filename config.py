@@ -1,3 +1,3 @@
 # config.py
 
-URL = "https://www.globo.com/"
+URL = "https://www.example.com/"
